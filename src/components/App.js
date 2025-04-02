@@ -2,11 +2,7 @@ import { useState, useEffect } from 'react';
 import Header from "./Header";
 import MainContainer from "./MainContainer";
 
-// id
-// ticker
-// name
-// type
-// price
+
 
 function App() {
 
